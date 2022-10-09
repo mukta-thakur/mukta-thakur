@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Muktha Thakur 👋
+<h1 align="center">Hi I'm Mukta Thakur 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer;A+passionate+Andriod+Developer;A+Passionate+Designer)](https://git.io/typing-svg)
 </h1>

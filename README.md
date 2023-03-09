@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Mukta Thakur 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer;A+passionate+Andriod+Developer;A+Passionate+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer;A+passionate+Android+Developer;A+Passionate+Designer)](https://git.io/typing-svg)
 </h1>
 
 |💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|

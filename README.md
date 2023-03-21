@@ -5,8 +5,8 @@
 
 |💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
 |-----------------------------------|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muktha-thakur&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/muktha-thakur)|[![muktha-thakur's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=muktha-thakur&theme=midnight-purple&hide_border=true)](https://github.com/muktha-thakur)
-|[![muktha-thakur's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam0109&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/muktha-thakur)|<h1 >Visits: </h1> ![Visitor Count](https://profile-counter.glitch.me/muktha-thakur/count.svg)
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muktha-thakur&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/muktha-thakur)|[![mukta-thakur's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=muktha-thakur&theme=midnight-purple&hide_border=true)](https://github.com/muktha-thakur)
+|[![mukta-thakur's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam0109&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/muktha-thakur)|<h1 >Visits: </h1> ![Visitor Count](https://profile-counter.glitch.me/muktha-thakur/count.svg)
 
 </p>
 
@@ -17,7 +17,7 @@
 
 ![muktha-thakur's github activity graph](https://activity-graph.herokuapp.com/graph?username=muktha-thakur&theme=react-dark)
 
-- 👀 I’m interested in software developmnent 
+- 👀 I’m interested in Web developmnent 
 - 🌱 I’m currently learning data structures and algorithms , web development
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me :- 
